@@ -1,0 +1,35 @@
+###
+
+GET http://localhost:5145/todoitems
+
+###
+
+GET http://localhost:5145/todoitems/1
+
+###
+
+GET http://localhost:5145/todoitems/complete
+
+###
+
+POST http://localhost:5145/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "isComplete":false
+}
+
+###
+
+PUT http://localhost:5145/todoitems/5
+Content-Type: application/json
+
+{
+  "name": "wash dirty dog",
+  "isComplete": true
+}
+
+###
+
+DELETE http://localhost:5145/todoitems/3

@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDkOVm4++NUaHbdPYgu2k9lOVR1IoWPd51Sg6DI0Em3gPYSA4dnDcaIU47yTm98cXVGVb4aTRaJF6MkU+piUdQ==",
+  "success": true,
+  "projectFilePath": "/home/alexwittwer/Documents/repos/dotnet/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/home/alexwittwer/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.2/microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.abstractions.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.analyzers.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.inmemory.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.caching.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.1.24080.9/microsoft.extensions.caching.memory.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.1.24080.9/microsoft.extensions.logging.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.logging.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.options/9.0.0-preview.1.24080.9/microsoft.extensions.options.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.1.24080.9/microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit/2.6.6/xunit.2.6.6.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.analyzers/1.10.0/xunit.analyzers.1.10.0.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.assert/2.6.6/xunit.assert.2.6.6.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.core/2.6.6/xunit.core.2.6.6.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.extensibility.core/2.6.6/xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.extensibility.execution/2.6.6/xunit.extensibility.execution.2.6.6.nupkg.sha512",
+    "/home/alexwittwer/.nuget/packages/xunit.runner.visualstudio/2.5.6/xunit.runner.visualstudio.2.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}
